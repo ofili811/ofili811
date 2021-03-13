@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any Educative Program.
 - 🤔 I’m looking for help with CSS and Javascript.
 - 💬 Ask me about Anthing.
-- 📫 How to reach me: ofilid98@gmail.com.
+- 📫 How to reach me: ofilid98@gmail.com/ linkedin.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: The average person will spend six months of their life waiting for red lights to turn green.
 
