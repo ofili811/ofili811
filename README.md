@@ -3,7 +3,6 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-![ofili811](/img.jpg)
 - 🔭 I’m currently Working Font End Design.
 - 🌱 I’m currently Learning HTML and CSS.
 - 👯 I’m looking to collaborate on any Educative Program.
